@@ -160,7 +160,7 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                     TextButton(
                       onPressed: () {
-                        print("Sign up clicked");
+                        print("Sign up ticked");
                       },
                       child: const Text(
                           style: TextStyle(color: Colors.blueAccent),
